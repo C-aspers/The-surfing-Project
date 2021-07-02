@@ -1,0 +1,11 @@
+.jumbotron{     
+	background-image: url(https://cdn.wallpapersafari.com/22/54/PMkY2F.jpg);
+	background-position: center;     
+	background-size: cover;     
+	height: 25rem;
+}
+
+img{
+	width: 500px;
+	height: 300px;
+}
